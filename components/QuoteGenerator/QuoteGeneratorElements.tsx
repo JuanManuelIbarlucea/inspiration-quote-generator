@@ -128,5 +128,5 @@ export const GenerateQuoteButtonText = styled.div`
   font-family: 'Caveat', cursive;
   font-size: 35px;
   width: 100%;
-  text-align: center;5
+  text-align: center;
 `;
